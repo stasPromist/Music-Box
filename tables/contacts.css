@@ -1,0 +1,22 @@
+label {
+    color: rgb(243, 26, 26);
+    font-size: 50px;
+   
+    margin-left: 800px;
+   
+}
+input {
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+form {
+   
+ 
+}
+body {
+    background-color: rgb(235, 198, 192);
+}
